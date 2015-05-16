@@ -4,6 +4,7 @@
   "license": "ISC",
   "devDependencies": {
     "brunch": "^1.8.2",
-    "css-brunch": "^1.7.0"
+    "css-brunch": "^1.7.0",
+    "javascript-brunch": "^1.7.1"
   }
 }
