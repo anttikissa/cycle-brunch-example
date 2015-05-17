@@ -3,6 +3,8 @@
   "version": "0.0.1",
   "license": "ISC",
   "devDependencies": {
+    "babel-brunch": "^5.1.1",
+    "bower": "^1.4.1",
     "brunch": "^1.8.2",
     "css-brunch": "^1.7.0",
     "javascript-brunch": "^1.7.1"
